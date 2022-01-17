@@ -1,3 +1,6 @@
-Sonia Malik
-Purav Malik
-Sumit Malik
+Topics to do:-
+arrays
+linked lists
+trees
+graphs
+etc.
